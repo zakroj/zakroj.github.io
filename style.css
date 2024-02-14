@@ -1,0 +1,37 @@
+body {
+  background: linear-gradient(-45deg, #35577D, #141E30);
+}
+
+h1 {
+    text-align: center;
+    color: #FFF;
+    font-family: Georgia;
+}
+
+ul {
+    color: aliceblue;
+    font-weight: bold;
+    font-family: Helvetica;
+}
+
+h2 {
+    color: rgba(255, 255, 255, 0.5);
+}
+
+h3 {
+    color: rgba(255, 255, 255, 0.5);
+}
+
+h4 {
+    color: rgba(255, 255, 255, 0.5);
+}
+
+h5 {
+    color: rgba(255, 255, 255, 0.5);
+}
+
+p {
+    color: aliceblue;
+    font-weight: bold;
+    font-family: Helvetica;
+}
